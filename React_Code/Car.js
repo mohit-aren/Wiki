@@ -4,10 +4,10 @@ class Car extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      brand: "Ford",
-      model: "Mustang",
-      color: "red",
-      year: 1964, 
+      brand: "Maruti",
+      model: "DZire",
+      color: "blue",
+      year: 2022, 
       cost: 10000
     };
   }
